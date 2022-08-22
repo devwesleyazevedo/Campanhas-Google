@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     var url_string = window.location.href;
     var url = new URL(url_string);
-    var gclid = url.searchParams.get("gclid"); // Busca pelo parâmetro ?gclid= na URL exe: http://localhost/?gclid=123
+    var gclid = url.searchParams.get("gclid"); // Busca pelo parâmetro ?gclid= na URL exe: http://localhost/?gclid=123 
  
     if (gclid) { // Se tiver o parâmetro ?gclid= na URL ele mostra o número de telefone abaixo.
        document.getElementById("phone-topbar").innerHTML = "<a href='tel:08009441131'><i class='fas fa-fw fa-phone'></i> 0800 944 1131</a>";
