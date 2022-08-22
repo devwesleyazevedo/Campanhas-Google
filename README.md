@@ -1,4 +1,4 @@
-<h1>Altera o telefone quando o usuário vem de campanhas Google</h1>
+<h1>Gclid do Google AdWords</h1>
 <h2>O que é o Gclid?</h2>
 <p>
     Gclid, também conhecido como “Google Click ID” ou “Google Click Identifier”, é um identificador de rastreamento que é formado sempre que alguém procura e clica em uma de suas palavras-chave alvo. Um Gclid será adicionado ao final da URL toda vez que seu anúncio for clicado através do Google Ads.
